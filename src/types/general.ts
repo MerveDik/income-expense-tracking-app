@@ -1,0 +1,1 @@
+export type Mode= "new"|"edit"|"delete"; // uygulama genelinde kullanılan type eklendi.
